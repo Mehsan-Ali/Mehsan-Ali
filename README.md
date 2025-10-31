@@ -6,11 +6,11 @@
 ---
 
 ### 🧑‍💻 About Me
-I'm **Mehsan Ali**, a passionate **Full-Stack Developer** based in **Karachi, Pakistan**, currently working at **Digitroncx**.  
+I'm **Mehsan Ali**, a passionate **Full-Stack Developer** based in **Pakistan**, currently working at **Digitroncx**.  
 I specialize in building scalable and performant web applications using **React.js**, **Node.js**, and **MongoDB**.  
 With a strong focus on clean code, responsive design, and optimized performance, I aim to deliver impactful, user-friendly software solutions.
 
-- 🎯 Skilled in React.js, TypeScript, Node.js, Express.js, and Tailwind CSS  
+- 🎯 Skilled in React.js, TypeScript, Node.js, Express.js, Nest.js, and Tailwind CSS  
 - 🌱 Always learning and exploring new technologies  
 - 💬 Love working in collaborative, agile environments  
 - ⚡ Fun fact: When I’m not coding, I’m either **gaming** or **traveling**  
