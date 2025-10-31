@@ -64,9 +64,8 @@ I turn ideas into clean, maintainable, and impactful solutions.
   <a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 </p>
 
----
-
-### ✨ Fun Fact
-> "Code is like humor. When you have to explain it, it’s bad." – Cory House  
-
-⭐️ From [Mehsan Ali](https://github.com/Mehsan-Ali)
+---                    
+                      
+                      
+                      
+  
