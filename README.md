@@ -48,8 +48,7 @@ I turn ideas into clean, maintainable, and impactful solutions.
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Mehsan-Ali&show_icons=true&theme=tokyonight" alt="GitHub stats" height="180em" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mehsan-Ali&theme=tokyonight" alt="GitHub streak" height="180em" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Mehsan-Ali&show_icons=true&theme=tokyonight" alt="GitHub stats" height="180em" />                   
 </p>
 
 <p align="center">
