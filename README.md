@@ -4,22 +4,22 @@
 
 <p align="center">
   <strong>Full-Stack Developer @ Cnady Mix Lab</strong><br/>
-  React.js · TypeScript · Node.js · NestJS · MongoDB
+  React.js · Next.js · TypeScript · Node.js · NestJS · Prisma · Supabase
 </p>
 
 <p align="center">
-  Building and shipping modern web applications across frontend and backend.
+  Building modern, scalable web applications from frontend to backend.
 </p>
 
 ---
 
 ### About
 
-I'm a **Full-Stack Developer at Cnady Mix Lab**, working across frontend and backend to build and maintain web applications.
+I'm a **Full-Stack Developer at Cnady Mix Lab**, working across frontend, backend, databases, and APIs to build production-ready web applications.
 
-My work includes **building responsive interfaces, developing REST APIs, integrating databases, and improving application performance** using modern JavaScript and TypeScript technologies.
+I mainly work with the **React / Next.js and Node.js ecosystem**, with experience in building REST APIs, database-driven applications, authentication flows, and responsive user interfaces.
 
-**Currently working with:** React.js, TypeScript, Node.js, NestJS, MongoDB, and MySQL.
+**Current stack:** Next.js · React.js · TypeScript · Node.js · NestJS · Prisma · Supabase · MongoDB · MySQL
 
 ---
 
@@ -28,13 +28,14 @@ My work includes **building responsive interfaces, developing REST APIs, integra
 **Frontend**
 
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge\&logo=react\&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge\&logo=next.js\&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge\&logo=typescript\&logoColor=white)
 ![Redux Toolkit](https://img.shields.io/badge/Redux_Toolkit-764ABC?style=for-the-badge\&logo=redux\&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge\&logo=tailwindcss\&logoColor=white)
 ![Material UI](https://img.shields.io/badge/Material_UI-007FFF?style=for-the-badge\&logo=mui\&logoColor=white)
 ![Framer Motion](https://img.shields.io/badge/Framer_Motion-0055FF?style=for-the-badge\&logo=framer\&logoColor=white)
 
-**Backend**
+**Backend & APIs**
 
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge\&logo=nodedotjs\&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge\&logo=express\&logoColor=white)
@@ -42,14 +43,32 @@ My work includes **building responsive interfaces, developing REST APIs, integra
 ![REST API](https://img.shields.io/badge/REST_API-02569B?style=for-the-badge\&logo=postman\&logoColor=white)
 ![Zod](https://img.shields.io/badge/Zod-306998?style=for-the-badge\&logo=typescript\&logoColor=white)
 
-**Database & Tools**
+**Database & ORM**
 
+![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge\&logo=prisma\&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge\&logo=supabase\&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge\&logo=mongodb\&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge\&logo=mysql\&logoColor=white)
+
+**Tools & Workflow**
+
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge\&logo=postman\&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge\&logo=vercel\&logoColor=white)
+![Nodemailer](https://img.shields.io/badge/Nodemailer-0078D4?style=for-the-badge\&logo=gmail\&logoColor=white)
+
+---
+
+### What I Build
+
+* Full-stack web applications
+* REST APIs & backend services
+* Database-driven applications
+* Authentication & authorization
+* Responsive and reusable UI
+* Third-party API integrations
+* Performance-focused applications
 
 ---
 
