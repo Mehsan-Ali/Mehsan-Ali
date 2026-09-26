@@ -3,7 +3,7 @@
 <h1 align="center">Mehsan Ali</h1>
 
 <p align="center">
-  <strong>Full-Stack Developer @ Cnady Mix Lab</strong><br/>
+  <strong>Full-Stack Developer @ Candy Mix Lab</strong><br/>
   React.js · Next.js · TypeScript · Node.js · NestJS · Prisma · Supabase
 </p>
 
