@@ -15,7 +15,7 @@
 
 ### About
 
-I'm a **Full-Stack Developer at Cnady Mix Lab**, working across frontend, backend, databases, and APIs to build production-ready web applications.
+I'm a **Full-Stack Developer at Candy Mix Lab**, working across frontend, backend, databases, and APIs to build production-ready web applications.
 
 I mainly work with the **React / Next.js and Node.js ecosystem**, with experience in building REST APIs, database-driven applications, authentication flows, and responsive user interfaces.
 
